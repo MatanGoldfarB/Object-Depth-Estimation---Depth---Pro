@@ -15,7 +15,6 @@ then add in the folder ml-depth-pro depth_test and only change the file for the 
 - Tried to trick it with zoom and it did not preform well.
 - Some new models are emerging with much better performance and are very relevant to our work.
 - We should add focal length explicitly when available, especially when we input it manually and not rely on EXIF metadata.
-- We can combine this model with a segmentation model to apply it specifically to tree objects.
 
 | Scene # | Distance [m] | Model Output [m] | Absolute Error [m] | Accuracy [%] |
 |--------:|--------------:|------------------:|---------------------:|---------------:|
