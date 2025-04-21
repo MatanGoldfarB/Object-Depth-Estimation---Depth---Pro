@@ -3,7 +3,7 @@
 
 to run it by yourself pull from apple-depth-pro github: https://github.com/apple/ml-depth-pro.git
 
-then add in the folder ml-depth-pro depth_test and only change the file for the test.
+then add in the folder ml-depth-pro depth_test.py and only change the file for the test.
 
 # My Expirement
 - When the image is small, the model performs significantly worse, which makes sense since we focus on pixel-level differences.
