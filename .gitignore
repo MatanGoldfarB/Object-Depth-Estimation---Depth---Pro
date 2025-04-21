@@ -1,0 +1,9 @@
+checkpoints/
+src/
+ACKNOWLEDGEMENTS.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+get_pretrained_models.sh
+LICENSE
+pyproject.toml
+yolo11s.pt
